@@ -54,8 +54,13 @@
         "required": true
       },
       "REPO_URL": {
-        "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
+        "description": "Don't dare to change this",
         "value": "https://GitHub.com/TeamYukki/YukkiMusicBot",
+        "required": true
+      },
+      "PYTHON_FILE": {
+        "description": "Don't dare to change this",
+        "value": "YukkiMusic",
         "required": true
       },
       "HEROKU_API_KEY": {
